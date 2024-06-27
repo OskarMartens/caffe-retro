@@ -43,6 +43,15 @@
   gap: 30px;
 }
 
+.content-section>*:nth-child(2){
+  align-self: flex-start;
+  margin-left: 20%;
+}
+.content-section>*:nth-child(3){
+  align-self: flex-end;
+  margin-right: 20%;
+}
+
 .page-text-header {
   font-size: 2rem;
   margin-bottom: 0.5rem;
