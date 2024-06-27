@@ -44,12 +44,12 @@
 }
 
 .content-section>*:nth-child(2){
-  align-self: flex-start;
-  margin-left: 20%;
+  margin-right: 20%;
+  padding-right: 20px;
+  padding-left: 20px;
 }
 .content-section>*:nth-child(3){
-  align-self: flex-end;
-  margin-right: 20%;
+  margin-left: 20%;
 }
 
 .page-text-header {
